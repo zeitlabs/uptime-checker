@@ -1,23 +1,23 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: zeitlabs # Your GitHub username
+repo: uptime-checker # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: school
+    url: https://sch.bikou.in
+  - name: att
+    url: https://att.bikou.in
+  - name: dcsd
+    url: https://dcsd.bikou.in
+  - name: tsa
+    url: https://tsa-dev.bikou.in
   - name: Secret Site
     url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: up.zeit.cx
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
