@@ -5,7 +5,7 @@
     "slug": "school",
     "status": "up",
     "uptime": "100.00%",
-    "time": 560
+    "time": 550
   },
   {
     "name": "att",
@@ -13,7 +13,7 @@
     "slug": "att",
     "status": "up",
     "uptime": "100.00%",
-    "time": 619
+    "time": 562
   },
   {
     "name": "dcsd",
@@ -21,7 +21,7 @@
     "slug": "dcsd",
     "status": "up",
     "uptime": "100.00%",
-    "time": 758
+    "time": 622
   },
   {
     "name": "tsa",
@@ -29,14 +29,14 @@
     "slug": "tsa",
     "status": "up",
     "uptime": "100.00%",
-    "time": 495
+    "time": 489
   },
   {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
+    "name": "ZEIT X LINCK",
+    "url": "https://www.zeitxlinck.com",
+    "slug": "zeit-x-linck",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 0
+    "time": 611
   }
 ]
