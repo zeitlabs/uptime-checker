@@ -12,8 +12,15 @@ sites:
     url: https://dcsd.bikou.in
   - name: tsa
     url: https://tsa-dev.bikou.in
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: ZEIT X LINCK
+    url: https://www.zeitxlinck.com
+
+expectedStatusCodes:
+  - 200
+  - 401
+
+assignees:
+  - name: eit
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -22,8 +29,8 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introTitle: "Uptime monitoring."
+  introMessage: ""
   navbar:
     - title: Status
       href: /
