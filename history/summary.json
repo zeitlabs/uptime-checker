@@ -1,42 +1,42 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "99.99%",
-    "time": 87
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "school",
+    "url": "https://sch.bikou.in",
+    "slug": "school",
     "status": "up",
     "uptime": "100.00%",
-    "time": 125
+    "time": 560
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "att",
+    "url": "https://att.bikou.in",
+    "slug": "att",
     "status": "up",
-    "uptime": "99.82%",
-    "time": 347
+    "uptime": "100.00%",
+    "time": 619
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.00%",
-    "time": 0
+    "name": "dcsd",
+    "url": "https://dcsd.bikou.in",
+    "slug": "dcsd",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 758
+  },
+  {
+    "name": "tsa",
+    "url": "https://tsa-dev.bikou.in",
+    "slug": "tsa",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 495
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "99.97%",
-    "time": 48
+    "status": "down",
+    "uptime": "100.00%",
+    "time": 0
   }
 ]
