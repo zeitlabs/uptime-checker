@@ -5,7 +5,7 @@
     "slug": "school",
     "status": "up",
     "uptime": "100.00%",
-    "time": 513
+    "time": 518
   },
   {
     "name": "att",
@@ -13,7 +13,7 @@
     "slug": "att",
     "status": "up",
     "uptime": "100.00%",
-    "time": 520
+    "time": 519
   },
   {
     "name": "dcsd",
@@ -29,7 +29,7 @@
     "slug": "tsa",
     "status": "up",
     "uptime": "100.00%",
-    "time": 512
+    "time": 521
   },
   {
     "name": "ZEIT X LINCK",
@@ -37,6 +37,6 @@
     "slug": "zeit-x-linck",
     "status": "up",
     "uptime": "100.00%",
-    "time": 667
+    "time": 668
   }
 ]
