@@ -5,7 +5,15 @@
     "slug": "school",
     "status": "up",
     "uptime": "100.00%",
-    "time": 518
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 519,
+    "timeDay": 523,
+    "timeWeek": 519,
+    "timeMonth": 519,
+    "timeYear": 519
   },
   {
     "name": "att",
@@ -13,7 +21,15 @@
     "slug": "att",
     "status": "up",
     "uptime": "100.00%",
-    "time": 519
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 520,
+    "timeDay": 517,
+    "timeWeek": 520,
+    "timeMonth": 520,
+    "timeYear": 520
   },
   {
     "name": "dcsd",
@@ -21,7 +37,15 @@
     "slug": "dcsd",
     "status": "up",
     "uptime": "100.00%",
-    "time": 549
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 546,
+    "timeDay": 517,
+    "timeWeek": 546,
+    "timeMonth": 546,
+    "timeYear": 546
   },
   {
     "name": "tsa",
@@ -29,7 +53,15 @@
     "slug": "tsa",
     "status": "up",
     "uptime": "100.00%",
-    "time": 521
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 525,
+    "timeDay": 547,
+    "timeWeek": 525,
+    "timeMonth": 525,
+    "timeYear": 525
   },
   {
     "name": "ZEIT X LINCK",
@@ -37,6 +69,14 @@
     "slug": "zeit-x-linck",
     "status": "up",
     "uptime": "100.00%",
-    "time": 668
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 673,
+    "timeDay": 708,
+    "timeWeek": 673,
+    "timeMonth": 673,
+    "timeYear": 673
   }
 ]
