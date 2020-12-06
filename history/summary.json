@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 519,
-    "timeDay": 523,
-    "timeWeek": 519,
-    "timeMonth": 519,
-    "timeYear": 519
+    "time": 518,
+    "timeDay": 505,
+    "timeWeek": 508,
+    "timeMonth": 518,
+    "timeYear": 518
   },
   {
     "name": "att",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 520,
-    "timeDay": 517,
-    "timeWeek": 520,
-    "timeMonth": 520,
-    "timeYear": 520
+    "time": 518,
+    "timeDay": 506,
+    "timeWeek": 505,
+    "timeMonth": 518,
+    "timeYear": 518
   },
   {
     "name": "dcsd",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 546,
-    "timeDay": 517,
-    "timeWeek": 546,
-    "timeMonth": 546,
-    "timeYear": 546
+    "time": 545,
+    "timeDay": 537,
+    "timeWeek": 519,
+    "timeMonth": 545,
+    "timeYear": 545
   },
   {
     "name": "tsa",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 525,
-    "timeDay": 547,
-    "timeWeek": 525,
-    "timeMonth": 525,
-    "timeYear": 525
+    "time": 533,
+    "timeDay": 605,
+    "timeWeek": 545,
+    "timeMonth": 533,
+    "timeYear": 533
   },
   {
     "name": "ZEIT X LINCK",
@@ -73,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 673,
-    "timeDay": 708,
-    "timeWeek": 673,
-    "timeMonth": 673,
-    "timeYear": 673
+    "time": 674,
+    "timeDay": 677,
+    "timeWeek": 672,
+    "timeMonth": 674,
+    "timeYear": 674
   }
 ]
