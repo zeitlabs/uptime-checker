@@ -5,21 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/sch.bikou.in",
     "slug": "school",
     "status": "up",
-    "uptime": "98.56%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.56%",
+    "uptimeYear": "100.00%",
     "time": 555,
-    "timeDay": 585,
-    "timeWeek": 522,
+    "timeDay": 516,
+    "timeWeek": 525,
     "timeMonth": 544,
     "timeYear": 555,
-    "dailyMinutesDown": {
-      "2020-11-30": 597,
-      "2020-11-29": 1440,
-      "2020-11-28": 485
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "att",
@@ -27,21 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/att.bikou.in",
     "slug": "att",
     "status": "up",
-    "uptime": "98.56%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.56%",
-    "time": 559,
-    "timeDay": 552,
-    "timeWeek": 527,
-    "timeMonth": 544,
-    "timeYear": 559,
-    "dailyMinutesDown": {
-      "2020-11-30": 597,
-      "2020-11-29": 1440,
-      "2020-11-28": 485
-    }
+    "uptimeYear": "100.00%",
+    "time": 558,
+    "timeDay": 516,
+    "timeWeek": 525,
+    "timeMonth": 543,
+    "timeYear": 558,
+    "dailyMinutesDown": {}
   },
   {
     "name": "dcsd",
@@ -49,21 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/dcsd.bikou.in",
     "slug": "dcsd",
     "status": "up",
-    "uptime": "98.56%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.56%",
-    "time": 544,
-    "timeDay": 562,
-    "timeWeek": 517,
-    "timeMonth": 542,
-    "timeYear": 544,
-    "dailyMinutesDown": {
-      "2020-11-30": 597,
-      "2020-11-29": 1440,
-      "2020-11-28": 485
-    }
+    "uptimeYear": "100.00%",
+    "time": 543,
+    "timeDay": 525,
+    "timeWeek": 521,
+    "timeMonth": 541,
+    "timeYear": 543,
+    "dailyMinutesDown": {}
   },
   {
     "name": "tsa",
@@ -71,21 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/tsa-dev.bikou.in",
     "slug": "tsa",
     "status": "up",
-    "uptime": "98.56%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.56%",
+    "uptimeYear": "100.00%",
     "time": 545,
-    "timeDay": 528,
-    "timeWeek": 498,
-    "timeMonth": 532,
+    "timeDay": 509,
+    "timeWeek": 502,
+    "timeMonth": 531,
     "timeYear": 545,
-    "dailyMinutesDown": {
-      "2020-11-30": 597,
-      "2020-11-29": 1440,
-      "2020-11-28": 485
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ZEIT X LINCK",
@@ -93,20 +77,16 @@
     "icon": "https://favicons.githubusercontent.com/www.zeitxlinck.com",
     "slug": "zeit-x-linck",
     "status": "up",
-    "uptime": "98.56%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.56%",
-    "time": 711,
-    "timeDay": 750,
-    "timeWeek": 683,
-    "timeMonth": 709,
-    "timeYear": 711,
-    "dailyMinutesDown": {
-      "2020-11-30": 597,
-      "2020-11-29": 1440,
-      "2020-11-28": 485
-    }
+    "uptimeYear": "100.00%",
+    "time": 710,
+    "timeDay": 628,
+    "timeWeek": 679,
+    "timeMonth": 706,
+    "timeYear": 710,
+    "dailyMinutesDown": {}
   }
 ]
