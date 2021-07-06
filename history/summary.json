@@ -58,18 +58,20 @@
     "url": "https://tsa-dev.bikou.in",
     "icon": "https://favicons.githubusercontent.com/tsa-dev.bikou.in",
     "slug": "tsa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 530,
-    "timeDay": 499,
-    "timeWeek": 525,
+    "time": 529,
+    "timeDay": 507,
+    "timeWeek": 524,
     "timeMonth": 514,
-    "timeYear": 530,
-    "dailyMinutesDown": {}
+    "timeYear": 529,
+    "dailyMinutesDown": {
+      "2021-07-06": 0
+    }
   },
   {
     "name": "ZEIT X LINCK",
