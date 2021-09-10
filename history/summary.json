@@ -22,9 +22,9 @@
     "url": "https://att.bikou.in",
     "icon": "https://favicons.githubusercontent.com/att.bikou.in",
     "slug": "att",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +33,18 @@
     "timeWeek": 502,
     "timeMonth": 495,
     "timeYear": 533,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-10": 0
+    }
   },
   {
     "name": "dcsd",
     "url": "https://dcsd.bikou.in",
     "icon": "https://favicons.githubusercontent.com/dcsd.bikou.in",
     "slug": "dcsd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 509,
     "timeMonth": 496,
     "timeYear": 523,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-10": 0
+    }
   },
   {
     "name": "tsa",
