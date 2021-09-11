@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 532,
-    "timeDay": 460,
-    "timeWeek": 511,
-    "timeMonth": 496,
+    "timeDay": 528,
+    "timeWeek": 512,
+    "timeMonth": 497,
     "timeYear": 532,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/att.bikou.in",
     "slug": "att",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.73%",
+    "uptimeDay": "22.39%",
+    "uptimeWeek": "88.91%",
+    "uptimeMonth": "97.45%",
+    "uptimeYear": "99.73%",
     "time": 533,
-    "timeDay": 448,
-    "timeWeek": 502,
+    "timeDay": 0,
+    "timeWeek": 499,
     "timeMonth": 495,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2021-09-10": 0
+      "2021-09-11": 37,
+      "2021-09-10": 1080
     }
   },
   {
@@ -43,18 +44,19 @@
     "icon": "https://favicons.githubusercontent.com/dcsd.bikou.in",
     "slug": "dcsd",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.73%",
+    "uptimeDay": "22.39%",
+    "uptimeWeek": "88.91%",
+    "uptimeMonth": "97.45%",
+    "uptimeYear": "99.73%",
     "time": 523,
-    "timeDay": 472,
-    "timeWeek": 509,
+    "timeDay": 0,
+    "timeWeek": 511,
     "timeMonth": 496,
     "timeYear": 523,
     "dailyMinutesDown": {
-      "2021-09-10": 0
+      "2021-09-11": 37,
+      "2021-09-10": 1080
     }
   },
   {
@@ -69,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 523,
-    "timeDay": 443,
-    "timeWeek": 501,
-    "timeMonth": 494,
+    "timeDay": 525,
+    "timeWeek": 503,
+    "timeMonth": 495,
     "timeYear": 523,
     "dailyMinutesDown": {
       "2021-07-09": 10,
@@ -90,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 689,
-    "timeDay": 631,
+    "timeDay": 669,
     "timeWeek": 672,
-    "timeMonth": 659,
+    "timeMonth": 660,
     "timeYear": 689,
     "dailyMinutesDown": {}
   }
