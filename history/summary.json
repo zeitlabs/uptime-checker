@@ -4,11 +4,11 @@
     "url": "https://sch.bikou.in",
     "icon": "https://favicons.githubusercontent.com/sch.bikou.in",
     "slug": "school",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 529,
     "timeDay": 537,
@@ -16,7 +16,7 @@
     "timeMonth": 519,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2021-11-15": 9
+      "2021-11-15": 2
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/att.bikou.in",
     "slug": "att",
     "status": "down",
-    "uptime": "81.21%",
+    "uptime": "81.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "81.21%",
+    "uptimeYear": "81.20%",
     "time": 533,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2021-11-15": 476,
+      "2021-11-15": 533,
       "2021-11-14": 1440,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
@@ -111,18 +111,18 @@
     "icon": "https://favicons.githubusercontent.com/dcsd.bikou.in",
     "slug": "dcsd",
     "status": "down",
-    "uptime": "81.21%",
+    "uptime": "81.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "81.21%",
+    "uptimeYear": "81.20%",
     "time": 523,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 523,
     "dailyMinutesDown": {
-      "2021-11-15": 476,
+      "2021-11-15": 533,
       "2021-11-14": 1440,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
@@ -196,9 +196,9 @@
     "url": "https://tsa-dev.bikou.in",
     "icon": "https://favicons.githubusercontent.com/tsa-dev.bikou.in",
     "slug": "tsa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -207,7 +207,9 @@
     "timeWeek": 508,
     "timeMonth": 511,
     "timeYear": 522,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-15": 0
+    }
   },
   {
     "name": "ZEIT X LINCK",
