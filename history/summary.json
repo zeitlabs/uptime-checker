@@ -4,19 +4,19 @@
     "url": "https://sch.bikou.in",
     "icon": "https://favicons.githubusercontent.com/sch.bikou.in",
     "slug": "school",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 529,
-    "timeDay": 537,
-    "timeWeek": 533,
-    "timeMonth": 519,
+    "timeDay": 544,
+    "timeWeek": 536,
+    "timeMonth": 520,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2021-11-15": 2
+      "2021-11-15": 9
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2021-11-15": 533,
+      "2021-11-15": 540,
       "2021-11-14": 1440,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
@@ -122,7 +122,7 @@
     "timeMonth": 0,
     "timeYear": 523,
     "dailyMinutesDown": {
-      "2021-11-15": 533,
+      "2021-11-15": 540,
       "2021-11-14": 1440,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
@@ -196,19 +196,19 @@
     "url": "https://tsa-dev.bikou.in",
     "icon": "https://favicons.githubusercontent.com/tsa-dev.bikou.in",
     "slug": "tsa",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 522,
-    "timeDay": 456,
-    "timeWeek": 508,
-    "timeMonth": 511,
+    "timeDay": 496,
+    "timeWeek": 511,
+    "timeMonth": 512,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2021-11-15": 0
+      "2021-11-15": 7
     }
   },
   {
